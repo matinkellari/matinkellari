@@ -15,7 +15,7 @@ and building small, real-world projects step by step.
 
 
 ### 📚 Learning Roadmap
-- Python basics & problem solving
+- Python intermediates & problem solving
 - Working with files and data
 - Learning Git & GitHub workflow
 
