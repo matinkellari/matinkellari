@@ -21,7 +21,6 @@ and building small, real-world projects step by step.
 
 ### 🪛Development Tools
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![PC](https://img.shields.io/badge/PC-000000?style=for-the-badge&logo=windows&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-Coming%20Soon-21D789?style=for-the-badge&logo=pycharm&logoColor=black)
 
 
