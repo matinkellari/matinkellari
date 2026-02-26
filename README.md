@@ -38,13 +38,12 @@ I'm a Mathematics student and an aspiring Computer Engineer. I believe coding re
 
 ---
 
-### 🛠️ Training Ground (Tech Stack)
+### 🛠️ Training Ground
 I use VS Code as my main weapon, and I am currently leveling up my skills to master PyCharm. My version control of choice is Git, ensuring every "strike" of code is tracked and safe.
 
 ---
 
-### 🌿 Life Outside the Dojo
-When I'm not at the gym, you'll find me:
+### 🌿 Hobby
 
 - 🎣 Fishing: The ultimate test of patience.
 - 🪴 Gardening: Cultivating nature and peace.
