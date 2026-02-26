@@ -1,31 +1,59 @@
-## Hi, I'm Matin 👋
+# <p align="center">🥋 Welcome to Matin's Coding Dojo 🐍</p>
 
-I'm a Python student focused on learning programming fundamentals  
-and building small, real-world projects step by step.
+### Hi, I'm Matin 👋🏼
 
-### 🎯 Current Focus
-- Learning Python fundamentals
-- Writing clean and readable code
-- Practicing with small projects
+I'm a Mathematics student and an aspiring Computer Engineer. I believe coding requires discipline, precision, and constant practice. I'm currently an intermediate Python developer, mastering the art of clean and efficient code.
 
-### 🛠 Tech Stack
+- 🎓 Future Goal: Studying Computer Engineering at University.
+- 🗣️ Language: Fluent in English (C1 Level).
+- 🎸 Artistic Side: Professional Guitar Instructor.
+- 🥋 Physical Side: Professional Martial Artist.
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70"/>
+---
+### 🛠 Tech stack
+
+  <img src="https://skillicons.dev/icons?i=python,git&theme=dark" width="200" />
 </p>
 
 
-### 📚 Learning Roadmap
-- Python intermediates & problem solving
-- Working with files and data
-- Learning Git & GitHub workflow
+---
+### 💻 Development Tools 
 
-### 🪛Development Tools
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm&theme=dark" width="200" />
+</p>
 
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-Coming%20Soon-21D789?style=for-the-badge&logo=pycharm&logoColor=black)
+  <img src="https://img.shields.io/badge/PyCharm-Learning_Mode-yellow?style=for-the-badge&logo=pycharm" />
+</p>
+
+---
+
+### 🛠️ Training Ground (Tech Stack)
+I use VS Code as my main weapon, and I am currently leveling up my skills to master PyCharm. My version control of choice is Git, ensuring every "strike" of code is tracked and safe.
+
+---
+
+### 🌿 Life Outside the Dojo
+When I'm not at the gym, you'll find me:
+
+- 🎣 Fishing: The ultimate test of patience.
+- 🪴 Gardening: Cultivating nature and peace.
+- 🎮 Gaming: Relaxing and competing with friends.
+- 🏃 Sports: Keeping the body as sharp as the mind.
+- 🎸 Guitar: Playing and teaching the language of music.
+
+---
+### 📫 Let's Connect!
+
+  <a href="https://t.me/matinkellari">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="60"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/matin_kelar">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="60"/>
+  </a>
+</p>
 
 
-### 📌 Practice Projects
-- Coming soon...
+---
+
+# <p align="center">🥋"Success is 1% talent and 99% discipline."🐍</p>
