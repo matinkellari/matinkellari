@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi, I'm Matin 👋
 
-<!--
-**matinkellari/matinkellari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Python student focused on learning programming fundamentals  
+and building small, real-world projects step by step.
 
-Here are some ideas to get you started:
+### 🎯 Current Focus
+- Learning Python fundamentals
+- Writing clean and readable code
+- Practicing with small projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70"/>
+</p>
+
+
+### 📚 Learning Roadmap
+- Python intermediates & problem solving
+- Working with files and data
+- Learning Git & GitHub workflow
+
+### 🪛Development Tools
+
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-Coming%20Soon-21D789?style=for-the-badge&logo=pycharm&logoColor=black)
+
+
+### 📌 Practice Projects
+- Coming soon...
