@@ -26,6 +26,10 @@ I'm a Mathematics student and an aspiring Computer Engineer. I believe coding re
   <img src="https://skillicons.dev/icons?i=python,git&theme=dark" width="200" />
 </p>
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="200" />
+</p>
+
 
 ---
 ### ⚒️ Framework 
