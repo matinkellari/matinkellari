@@ -31,14 +31,7 @@ I'm a Mathematics student and an aspiring Computer Engineer. I believe coding re
 ### ⚒️ Framework 
 
 
-
-<svg xmlns="http://www.w3.org/2000/svg" width="220" height="72" viewBox="0 0 220 72" fill="none">
-  <rect x="1" y="1" width="218" height="70" rx="35" fill="#009688"/>
-  <circle cx="50" cy="36" r="18" fill="white" opacity="0.18"/>
-  <path d="M44 22L34 41H44L39 58L57 35H46L52 22H44Z" fill="white"/>
-</svg>
-
-
+<img src="assets/fastapi-badge.svg" alt="FastAPI" width="220" />
 
 
 
