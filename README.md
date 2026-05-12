@@ -57,6 +57,8 @@ I'm a Mathematics student and an aspiring Computer Engineer. I believe coding re
 </p>
 
 
+<img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
+
 ---
 
 ### 🛠️ Training Ground
