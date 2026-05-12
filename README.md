@@ -28,6 +28,11 @@ I'm a Mathematics student and an aspiring Computer Engineer. I believe coding re
 
 
 ---
+### Framework 
+
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-22c55e?style=for-the-badge&logo=fastapi&logoColor=white)
+
+
 ### 💻 Development Tools 
 
   <img src="https://skillicons.dev/icons?i=vscode,pycharm&theme=dark" width="200" />
