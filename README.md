@@ -33,8 +33,6 @@ I'm a Mathematics student and an aspiring Computer Engineer. I believe coding re
   <img src="https://skillicons.dev/icons?i=vscode,pycharm&theme=dark" width="200" />
 </p>
 
-  <img src="https://img.shields.io/badge/PyCharm-Learning_Mode-yellow?style=for-the-badge&logo=pycharm" />
-</p>
 
 ---
 
