@@ -26,7 +26,6 @@ I'm a Mathematics student and an aspiring Computer Engineer. I believe coding re
   <img src="https://skillicons.dev/icons?i=python,git&theme=dark" width="200" />
 </p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python,git&logoColor=white)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" />
