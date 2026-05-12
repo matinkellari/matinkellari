@@ -36,11 +36,6 @@ I'm a Mathematics student and an aspiring Computer Engineer. I believe coding re
 
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=009688)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="90" />
-  <br>
-  <strong>FastAPI</strong>
-</p>
 
 
 ### 💻 Development Tools 
