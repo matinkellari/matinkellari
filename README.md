@@ -26,6 +26,13 @@ I'm a Mathematics student and an aspiring Computer Engineer. I believe coding re
   <img src="https://skillicons.dev/icons?i=python,git&theme=dark" width="200" />
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="200" />
+  <div style="display:inline-block; border:1px solid #444; padding:4px 10px; border-radius:8px; margin-top:8px;">
+    FastAPI
+  </div>
+</p>
+
 
 ---
 ### ⚒️ Framework 
