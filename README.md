@@ -31,7 +31,8 @@ I'm a Mathematics student and an aspiring Computer Engineer. I believe coding re
 ### ⚒️ Framework 
 
 
-<img src="assets/fastapi-badge.svg" alt="FastAPI" width="220" />
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=009688)
+
 
 
 
