@@ -30,8 +30,20 @@ I'm a Mathematics student and an aspiring Computer Engineer. I believe coding re
 ---
 ### ⚒️ Framework 
 
-![FastAPI](https://img.shields.io/badge/FastAPI-Backend-22c55e?style=for-the-badge&logo=fastapi&logoColor=white)
 
+<p align="center">
+  <svg width="140" height="140" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="100" cy="100" r="90" fill="#0f172a"/>
+    <polygon points="100,30 160,150 40,150" fill="#22c55e"/>
+    <text x="100" y="125" text-anchor="middle"
+          font-size="36"
+          fill="#ecfeff"
+          font-family="Arial, Helvetica, sans-serif"
+          font-weight="bold">
+      API
+    </text>
+  </svg>
+</p>
 
 ### 💻 Development Tools 
 
@@ -42,7 +54,7 @@ I'm a Mathematics student and an aspiring Computer Engineer. I believe coding re
 ---
 
 ### 🛠️ Training Ground
-I use VS Code as my main weapon, and I am currently leveling up my skills to master PyCharm. My version control of choice is Git, ensuring every "strike" of code is tracked and safe.
+I use VSCode and PyCharm as my main weapons. My version control of choice is Git, ensuring every "strike" of code is tracked and safe.
 
 ---
 
