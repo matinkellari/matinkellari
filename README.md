@@ -4,7 +4,7 @@
 <table border="1">
   <tr>
     <td>
-      <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF0000&center=true&vCenter=true&width=700&lines=Hello+I'm+Matin+Kellari;Advance+Python+Learner;Always++Trying+To+Learn+New+Things" />
+      <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF0000&center=true&vCenter=true&width=700&lines=Hello+I'm+Matin+Kellari;Python+Developer;Always++Trying+To+Learn+New+Things" />
                            </td>
                        </tr>
                        </table>
