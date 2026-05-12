@@ -32,6 +32,13 @@ I'm a Mathematics student and an aspiring Computer Engineer. I believe coding re
   <img src="https://img.shields.io/badge/Git-F0502F?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Git-F0502F?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
 ---
 ### ⚒️ Framework 
 
