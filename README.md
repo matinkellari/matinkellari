@@ -30,7 +30,7 @@ I'm a Mathematics student and an aspiring Computer Engineer. I believe coding re
 ---
 ### ⚒️ Framework 
 
-  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="110" />
+  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="95" />
 </p>
 
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=009688)
