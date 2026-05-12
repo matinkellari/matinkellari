@@ -26,10 +26,6 @@ I'm a Mathematics student and an aspiring Computer Engineer. I believe coding re
   <img src="https://skillicons.dev/icons?i=python,git&theme=dark" width="200" />
 </p>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="200" />
-</p>
-
 
 ---
 ### ⚒️ Framework 
@@ -38,6 +34,13 @@ I'm a Mathematics student and an aspiring Computer Engineer. I believe coding re
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=009688)
 
   <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="100" />
+</p>
+
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="200" />
+  <br>
+  <strong>FastAPI</strong>
 </p>
 
 
