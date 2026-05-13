@@ -65,7 +65,7 @@ I use VSCode and PyCharm as my main weapons. My version control of choice is Git
 ### 🌿 Hobby
 
 - 🎣 Fishing: The ultimate test of patience.
-- Climbing: Body faces the challenge of endurance.
+- ⛰️ Climbing: Body faces the challenge of endurance.
 - 🪴 Gardening: Cultivating nature and peace.
 - 🎮 Gaming: Relaxing and competing with friends.
 - 🏃 Sports: Keeping the body as sharp as the mind.
