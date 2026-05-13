@@ -16,9 +16,9 @@
 I'm a Mathematics student and an aspiring Computer Engineer. I believe coding requires discipline, precision, and constant practice. I'm currently an Python developer, mastering the art of clean and efficient code.
 
 - 🎓 Future Goal: Studying Computer Engineering at University.
-- 🗣️ Language: Fluent in English (C1 Level).
-- 🎸 Artistic Side: Professional Guitar Instructor.
-- 🥋 Physical Side: Professional Martial Artist.
+- 🗣️ Language: Fluent in English (C1 Level) and Persian (Native Language).
+- 🎸 Artistic Side: Professional Guitar player & Instructor.
+- 🥋 Physical Side: Professional Martial Artist (Taekwondo, Kick-Boxing, Self-Defence, MMA), Swimmer, Skater.
 
 ---
 ### 🛠 Tech stack
@@ -65,6 +65,7 @@ I use VSCode and PyCharm as my main weapons. My version control of choice is Git
 ### 🌿 Hobby
 
 - 🎣 Fishing: The ultimate test of patience.
+- Climbing: Body faces the challenge of endurance.
 - 🪴 Gardening: Cultivating nature and peace.
 - 🎮 Gaming: Relaxing and competing with friends.
 - 🏃 Sports: Keeping the body as sharp as the mind.
