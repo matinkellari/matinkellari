@@ -17,8 +17,8 @@ I'm a Mathematics student and an aspiring Computer Engineer. I believe coding re
 
 - 🎓 Future Goal: Studying Computer Engineering at University.
 - 🗣️ Language: Fluent in English (C1 Level) and Persian (Native Language).
-- 🎸 Artistic Side: Professional Guitar player & Instructor.
-- 🥋 Physical Side: Professional Martial Artist (Taekwondo, Kick-Boxing, Self-Defence, MMA), Swimmer, Skater.
+- 🎸 Artistic Side: Professional Guitar player🎵 & Instructor🎶📝.
+- 🥋 Physical Side: Professional Martial Artist (Taekwondo🥋, Kick-Boxing🥊, Self-Defence🥷🏻, MMA🤼🏻‍♂️), Swimmer🏊🏻‍♂️, Skater🛼.
 
 ---
 ### 🛠 Tech stack
