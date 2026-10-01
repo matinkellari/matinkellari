@@ -37,27 +37,28 @@ I'm a Mathematics student and an aspiring Computer Engineer. I believe coding re
 ---
 ## 📊 Data Science
 
-  <img src="https://skillicons.dev/icons?i=numpy&theme=dark" width="95" />
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/numpy" width="70" />
+  <img src="https://cdn.simpleicons.org/pandas" width="70" />
+  <img src="https://cdn.simpleicons.org/matplotlib" width="70" />
+  <img src="https://cdn.simpleicons.org/seaborn" width="70" />
 </p>
 
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=013243)
-
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=pandas&theme=dark" width="95" />
-<img src="https://skillicons.dev/icons?i=matplotlib&theme=dark" width="95" />
-<img src="https://skillicons.dev/icons?i=seaborn&theme=dark" width="95" />
+<p align="left">
+  <img src="https://cdn.simpleicons.org/numpy" width="70" />
+  <img src="https://cdn.simpleicons.org/pandas" width="70" />
+  <img src="https://skillicons.dev/icons?i=matplotlib,seaborn&theme=dark" />
 </p>
 
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=013243)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=150458)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white&labelColor=11557C)
-![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white&labelColor=4C72B0)
 
+<img src="https://cdn.simpleicons.org/matplotlib" width="70" />
+<img src="https://cdn.simpleicons.org/seaborn" width="70" />
 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="70" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="70" />
 </p>
-
 ---
 ### ⚒️ Framework 
 
