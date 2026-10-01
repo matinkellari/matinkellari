@@ -35,6 +35,30 @@ I'm a Mathematics student and an aspiring Computer Engineer. I believe coding re
 </p>
 
 ---
+## 📊 Data Science
+
+  <img src="https://skillicons.dev/icons?i=numpy&theme=dark" width="95" />
+</p>
+
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=013243)
+
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=pandas&theme=dark" width="95" />
+<img src="https://skillicons.dev/icons?i=matplotlib&theme=dark" width="95" />
+<img src="https://skillicons.dev/icons?i=seaborn&theme=dark" width="95" />
+</p>
+
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=013243)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=150458)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white&labelColor=11557C)
+![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white&labelColor=4C72B0)
+
+
+</p>
+
+---
 ### ⚒️ Framework 
 
   <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="95" />
