@@ -39,26 +39,20 @@ I'm a Mathematics student and an aspiring Computer Engineer. I believe coding re
 
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/numpy" width="70" />
-  <img src="https://cdn.simpleicons.org/pandas" width="70" />
-  <img src="https://cdn.simpleicons.org/matplotlib" width="70" />
-  <img src="https://cdn.simpleicons.org/seaborn" width="70" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="95" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="95" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="95" />
 </p>
+
+
+
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/numpy" width="70" />
-  <img src="https://cdn.simpleicons.org/pandas" width="70" />
-  <img src="https://skillicons.dev/icons?i=matplotlib,seaborn&theme=dark" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
 </p>
 
-
-<img src="https://cdn.simpleicons.org/matplotlib" width="70" />
-<img src="https://cdn.simpleicons.org/seaborn" width="70" />
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="70" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="70" />
-</p>
 ---
 ### ⚒️ Framework 
 
