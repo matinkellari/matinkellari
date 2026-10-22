@@ -13,9 +13,9 @@
 ---
 ### Hey, a bit about me 👋🏼
 
-I'm a Mathematics student and an aspiring Computer Engineer. I believe coding requires discipline, precision, and constant practice. I'm currently an Python developer, mastering the art of clean and efficient code.
+I'm a Computer Engineering student. I believe coding requires discipline, precision, and constant practice. I'm currently an Python developer, mastering the art of clean and efficient code.
 
-- 🎓 Future Goal: Studying Computer Engineering at University.
+- 🎓 Future Goal: Be an artificial intelligence (AI) expert. 
 - 🗣️ Language: Fluent in English (C1 Level) and Persian (Native Language).
 - 🎸 Artistic Side: Professional Guitar player🎵 & Instructor🎶📝.
 - 🥋 Physical Side: Professional Martial Artist (Taekwondo🥋, Kick-Boxing🥊, Self-Defence🥷🏻, MMA🤼🏻‍♂️), Swimmer🏊🏻‍♂️, Skater🛼.
