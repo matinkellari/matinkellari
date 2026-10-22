@@ -32,7 +32,10 @@ I'm a Computer Engineering student. I believe coding requires discipline, precis
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Git-F0502F?style=for-the-badge&logo=git&logoColor=white" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Data%20Mining-Data%20Analysis-306998?style=for-the-badge&logo=databricks&logoColor=white&labelColor=1F2937" width="350" />
 </p>
+
 
 ---
 ## 📊 Data Science
@@ -46,12 +49,14 @@ I'm a Computer Engineering student. I believe coding requires discipline, precis
 
 
 
-
 <p align="left">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  
 </p>
+
+
 
 ---
 ### ⚒️ Framework 
